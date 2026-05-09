@@ -1,5 +1,5 @@
 {
     "persiapan": "Persiapan",
-    "pengerjaan": "Pengerjaan",
-    "code-in-action": "Code in Action"
+    "pengerjaan-excel": "Pengerjaan (Excel Version)",
+    "pengerjaan-streamlit": "Pengerjaan (Streamlit Version)"
 }
